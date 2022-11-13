@@ -1,2 +1,3 @@
 # Git-Assignment
-This repository is create for bits git assignment 
+This repository is created for the bits git assignment.
+A series of git commands are going to be demonstarted using this repository. 
